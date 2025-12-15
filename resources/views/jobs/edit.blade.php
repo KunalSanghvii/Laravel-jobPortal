@@ -88,7 +88,7 @@
       @csrf
       @method('DELETE')
     </form>
- 
+
 
 </x-layout>
 
